@@ -3,7 +3,8 @@ class seller
 {
 
 	int a;
-
+	 
+	int x;
 
 };
 
