@@ -6,6 +6,6 @@ class seller
 	 
 	int x;
 	int y ;
-
+aya hate ahmed meno llah
 };
 
